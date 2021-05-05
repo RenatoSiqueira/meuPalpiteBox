@@ -15,11 +15,11 @@ const Sobre = () => (
           {" "}
           <strong>PalpiteBox</strong>
         </a>
-        ; um projeto que utiliza <strong>NextJs, TailwindCSS, MomentJS </strong>{" "}
-        e integração com o <strong>Google Spreadsheet</strong>.
+        ; um projeto que utiliza <strong>NextJs, TailwindCSS, MomentJS, </strong>{" "}
+        integração com o <strong>Google Spreadsheet</strong> e <strong>Google Drive</strong>.
       </p>
       <p className="pb-3 font-bold">
-        Construido passo a passo no FullStackMaster.
+        Projeto Base é Construido passo a passo no FullStackMaster.
       </p>
       <a href='https://devpleno.com' target='_blank' className="pb-3 text-center">
         https://www.devpleno.com

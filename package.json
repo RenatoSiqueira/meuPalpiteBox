@@ -16,6 +16,7 @@
     "capture-website": "^1.4.0",
     "formik": "^2.2.6",
     "google-spreadsheet": "^3.0.13",
+    "googleapis": "^71.0.0",
     "hamburger-react": "^2.3.0",
     "moment": "^2.29.1",
     "next": "^10.0.1",

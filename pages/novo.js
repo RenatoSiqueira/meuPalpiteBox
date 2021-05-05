@@ -7,7 +7,7 @@ import Confirmed from "../components/Confirmed"
 
 const validationSchema = Yup.object().shape({
   Nome: Yup.string().required("Campo obrigatório"),
-  Url: Yup.string(),
+  Url: Yup.string().required("Campo obrigatório"),
   Virou: Yup.string().required("Campo obrigatório"),
 })
 
